@@ -1,0 +1,22 @@
+{
+  "wheel_id": 454,
+  "structure": "umbrella",
+  "slug": "goldcoastretainingwall-101",
+  "project": "retaining-wall-builders-gold-coast-quotes-explained-1d905e186ce",
+  "parent_t1_ref": "goldcoastretainingwall-150",
+  "node_role": "feeder",
+  "money_target": "goldcoastretainingwall.net.au",
+  "primary_kw": "retaining wall builders gold coast quotes explained",
+  "intended_url": "http://retaining-wall-builders-gold-coast-quotes-explained-1d905e186ce.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "e45fbfc66256d696",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/goldcoastretainingwall-150/",
+      "anchor": "https://sitesau.github.io/goldcoastretainingwall-150/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
